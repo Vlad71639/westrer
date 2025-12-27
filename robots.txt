@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+User-agent: Yandex
+Crawl-delay: 1
+Host: aviamasters-crash.vercel.app
